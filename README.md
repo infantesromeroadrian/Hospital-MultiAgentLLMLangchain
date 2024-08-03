@@ -6,6 +6,7 @@ Welcome to the **Hospital Multi-Agent LLM LangChain** project! 🚀 This project
 
 This project uses a combination of multiple AI agents, each with specialized roles, to assist in various hospital operations. The agents can perform tasks such as diagnosing patients, scheduling appointments, and retrieving patient records.
 
+https://github.com/infantesromeroadrian/Hospital-MultiAgentLLMLangchain/blob/27ad5bad088dca954b1e28ffa45d3453b964d187/assets/Screenshot%202024-08-03%20at%2002.46.31.png
 
 ## 🎯 Diagram
 
