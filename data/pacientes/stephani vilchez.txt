@@ -1,8 +1,0 @@
-Name: Stephani Vilchez
-Age: 28
-Gender: Mujer
-Condition: No
-Medication: Parcetamol
-Reason: Tengo dolor en mi tobillo
-
-Comentario del doctor: Mantener parcetamol durante 7 dias mas cada 8 horas.

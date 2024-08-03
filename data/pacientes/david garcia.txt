@@ -1,0 +1,6 @@
+Name: David Garcia
+Age: 44
+Gender: Hombre
+Condition: Ansiedad
+Medication: No
+Reason: Me siento con mucha ansiedad con noticias relacionadas con el Covid

@@ -1,0 +1,16 @@
+Name: Jessika Marisca
+Age: 34
+Gender: Mujer
+Condition: TDH
+Medication: No tristemente
+Reason: No consigue concentrarse cuando le explican un proyecto
+
+Comentario del doctor: El tratamiento recomendado para el Trastorno por Déficit de Atención e Hiperactividad (TDAH) generalmente incluye una combinación de medicación, terapia psicológica y cambios en el estilo de vida o la educación.
+
+Medicación: Los medicamentos más comunes utilizados son los estimulantes del sistema nervioso central. Estos medicamentos ayudan a las personas con TDAH a concentrarse y completar tareas.
+
+Terapia: La terapia cognitivo-conductual puede ser útil para los niños y adultos con TDAH.
+
+Cambios en el estilo de vida: Una dieta saludable, ejercicio físico regular y dormir lo suficiente pueden ayudar a manejar los síntomas del TDAH.
+
+Educación y formación: Los maestros y los padres pueden aprender estrategias y técnicas para ayudar a los niños con TDAH a aprender y a tener éxito en la escuela.
