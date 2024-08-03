@@ -1,0 +1,6 @@
+Name: Stephani
+Age: 28
+Gender: Mujer
+Condition: Ansiedad
+Medication: No
+Reason: Tengo ansiedad
