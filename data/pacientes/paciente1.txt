@@ -1,0 +1,11 @@
+Paciente 1
+Nombre del paciente: Juan Pérez García
+Edad: 45 años
+Sexo: Masculino
+Fecha de consulta: 01/08/2024
+Diagnóstico principal: Hipertensión arterial
+Tratamiento recomendado:
+
+Inicio de tratamiento con Enalapril 10 mg, 1 tableta diaria.
+Recomendación de dieta baja en sodio y aumento de actividad física.
+Observaciones: Se sugiere seguimiento mensual para monitorear presión arterial y ajustar tratamiento si es necesario.

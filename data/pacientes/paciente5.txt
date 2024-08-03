@@ -1,0 +1,12 @@
+Paciente 5
+Nombre del paciente: Laura Sánchez Ruiz
+Edad: 50 años
+Sexo: Femenino
+Fecha de consulta: 05/08/2024
+Diagnóstico principal: Ansiedad generalizada
+Tratamiento recomendado:
+
+Sertralina 50 mg, 1 tableta diaria.
+Terapia cognitivo-conductual semanal.
+Técnicas de relajación y meditación diaria.
+Observaciones: Paciente reporta episodios de ansiedad frecuente, especialmente en situaciones de estrés laboral. Se sugiere seguimiento psicológico regular.

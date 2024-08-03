@@ -1,0 +1,12 @@
+Paciente 2
+Nombre del paciente: María López Fernández
+Edad: 32 años
+Sexo: Femenino
+Fecha de consulta: 02/08/2024
+Diagnóstico principal: Diabetes Mellitus Tipo 2
+Tratamiento recomendado:
+
+Metformina 850 mg, 1 tableta dos veces al día.
+Control de glucosa en sangre diario y revisión mensual.
+Asesoría nutricional para manejo de dieta.
+Observaciones: Paciente presenta niveles elevados de glucosa en ayunas. Se recomienda monitoreo constante y posibles ajustes en medicación.

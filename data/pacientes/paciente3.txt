@@ -1,0 +1,12 @@
+Paciente 3
+Nombre del paciente: Carlos Ramírez Soto
+Edad: 28 años
+Sexo: Masculino
+Fecha de consulta: 03/08/2024
+Diagnóstico principal: Lumbalgia aguda
+Tratamiento recomendado:
+
+Reposo relativo por 5 días.
+Ibuprofeno 400 mg, 1 tableta cada 8 horas según necesidad.
+Terapia física con ejercicios de estiramiento y fortalecimiento.
+Observaciones: Se recomienda evitar actividades que requieran esfuerzo físico hasta nueva evaluación.

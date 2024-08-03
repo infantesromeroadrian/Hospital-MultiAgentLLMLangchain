@@ -1,0 +1,12 @@
+Paciente 4
+Nombre del paciente: Ana Torres Gómez
+Edad: 65 años
+Sexo: Femenino
+Fecha de consulta: 04/08/2024
+Diagnóstico principal: Artrosis de rodilla
+Tratamiento recomendado:
+
+Paracetamol 500 mg, 1 tableta cada 6 horas según dolor.
+Suplementos de glucosamina y condroitina.
+Fisioterapia 3 veces por semana.
+Observaciones: La paciente refiere dolor crónico en la rodilla derecha, especialmente al caminar. Se sugiere evaluación para posible infiltración intraarticular si el dolor persiste.
