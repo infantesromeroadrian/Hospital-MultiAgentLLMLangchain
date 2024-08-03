@@ -57,6 +57,7 @@ graph TD
 
 Here's an overview of the project structure:
 
+```plaintext
 hospital-multiagent-llm-langchain/
 ├── data/
 │   └── pacientes/       # Patient records stored as text files
@@ -82,6 +83,7 @@ hospital-multiagent-llm-langchain/
 ├── poetry.lock                 # Poetry lock file for managing dependencies
 ├── pyproject.toml              # Project configuration file
 └── README.md                   # Project README file
+```
 
 
 ## 🚀 Getting Started
