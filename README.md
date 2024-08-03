@@ -6,6 +6,46 @@ Welcome to the **Hospital Multi-Agent LLM LangChain** project! 🚀 This project
 
 This project uses a combination of multiple AI agents, each with specialized roles, to assist in various hospital operations. The agents can perform tasks such as diagnosing patients, scheduling appointments, and retrieving patient records.
 
+
+## 🎯 Diagram
+
+The following diagram illustrates the project structure and key components:
+
+```mermaid
+
+graph TD
+    A[Hospital Multi-Agent LLM LangChain] --> B[data/]
+    A --> C[src/]
+    A --> D[docs/]
+    A --> E[models/]
+    A --> F[assets/]
+
+    C --> C1[agents/]
+    C --> C2[features/]
+    C --> C3[models/]
+    C --> C4[utils/]
+    C --> C5[app.py]
+    C --> C6[main.py]
+
+    C1 --> C1_1[hospital_agent.py]
+
+    C2 --> C2_1[admin_agent.py]
+    C2 --> C2_2[doctor_agent.py]
+    C2 --> C2_3[hospital_tools.py]
+    C2 --> C2_4[nurse_agent.py]
+    C2 --> C2_5[patient_rag.py]
+
+    C3 --> C3_1[input_models.py]
+
+    C4 --> C4_1[logging_config.py]
+
+    B --> B1[pacientes/]
+    
+```
+
+
+
+
 ### 🧠 Key Components
 
 - **Language Models (LLMs)**: Powered by OpenAI's GPT models, these are used to simulate conversations and interactions with the agents.
